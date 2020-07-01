@@ -6,3 +6,4 @@ g
 y
 o
 r
+these are the colors
